@@ -1,3 +1,6 @@
+!REPO is moved to stash: https://stash.merck.com/projects/DPS/repos/ruby-ntlm/browse
+!Please do not use this repository anymore
+
 ruby-ntlm
 =========
 
